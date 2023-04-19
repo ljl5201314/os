@@ -1,3 +1,4 @@
 # Table of contents
 
-* [os](README.md)
+* [Rust进阶之路](README.md)
+* [rust](rust.md)
